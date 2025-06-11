@@ -51,21 +51,31 @@ This project follows a **clean, modular architecture** for maintainability and c
 </p>
 
 ### 📊 Admin Dashboard
+<p align="center">
     <img src="assets/images/admin_dashboard.jpg" height="300"/>
+</p>
 
 ### ➕ Add Student / Teacher
+<p align="center">
     <img src="assets/images/add_student.jpg" height="300"/>
     <img src="assets/images/admin_dashboard.jpg" height="300"/>
+</p>
 
 ### 📋 Student List and Teacher List with Search
+<p align="center">
     <img src="assets/images/student_list_with_search.jpg" height="300"/>
     <img src="assets/images/teacher_list_with_search.jpg" height="300"/>
+</p>
 
 ### 🧑‍🏫 Teacher Dashboard
+<p align="center">
     <img src="assets/images/teacher_dashboard.jpg" height="300"/>
+</p>
 
 ### 🎓 Student Dashboard
+<p align="center">
     <img src="assets/images/student_dashboard.jpg" height="300"/>
+</p>
 
 ## 📌 Features
 
