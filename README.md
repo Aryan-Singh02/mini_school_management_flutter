@@ -40,7 +40,7 @@ This project follows a **clean, modular architecture** for maintainability and c
 ## 🔑 Login Credentials
 
 ### 👨‍🏫 Admin Panel
-    Username: admin
+    Username: admin@school.com
     Password: admin123
 
 ## 🖼 Screenshots
