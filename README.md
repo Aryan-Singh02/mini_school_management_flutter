@@ -58,7 +58,7 @@ This project follows a **clean, modular architecture** for maintainability and c
 ### ➕ Add Student / Teacher
 <p align="center">
     <img src="assets/images/add_student.jpg" height="300"/>
-    <img src="assets/images/admin_dashboard.jpg" height="300"/>
+    <img src="assets/images/add_teacher.jpg" height="300"/>
 </p>
 
 ### 📋 Student List and Teacher List with Search
