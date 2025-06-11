@@ -1,38 +1,3 @@
-// import 'package:flutter/material.dart';
-// import 'add_student.dart';
-// import 'add_teacher.dart';
-// import 'student_list.dart';
-// import 'teacher_list.dart';
-
-// class AdminDashboard extends StatelessWidget {
-//   @override
-//   Widget build(BuildContext context) {
-//     return Scaffold(
-//       appBar: AppBar(title: Text('Admin Dashboard')),
-//       body: Column(
-//         children: [
-//           ElevatedButton(
-//               onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (_) => AddStudentScreen())),
-//               child: Text('Add Student')),
-//           ElevatedButton(
-//               onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (_) => AddTeacherScreen())),
-//               child: Text('Add Teacher')),
-              
-//           ElevatedButton(
-//               onPressed: () {Navigator.push(context, MaterialPageRoute(builder: (_) => StudentListScreen()));},
-//               child: Text("View Students")),
-
-//           ElevatedButton(
-//               onPressed: () {Navigator.push(context, MaterialPageRoute(builder: (_) => TeacherListScreen()));},
-//               child: Text("View Teachers")),
-//           // You can add view lists and statistics later
-//         ],
-//       ),
-//     );
-//   }
-// }
-
-
 import 'package:flutter/material.dart';
 import '../../utils/shared_prefs.dart';
 import 'add_student.dart';
