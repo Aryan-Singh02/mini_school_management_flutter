@@ -46,7 +46,9 @@ This project follows a **clean, modular architecture** for maintainability and c
 ## 🖼 Screenshots
 
 ### 🧑‍💼 Admin Login
-    <img src="assets/images/admin_login.jpg" height="300"/>
+<p align="center">
+    <img src="assets/images/admin_login.jpg" height="500"/>
+</p>
 
 ### 📊 Admin Dashboard
     <img src="assets/images/admin_dashboard.jpg" height="300"/>
